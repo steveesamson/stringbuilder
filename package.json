@@ -1,5 +1,5 @@
 {
-  "name": "stringbuilder",
+  "name": "strbuilder",
   "version": "1.0.0",
   "description": "Simple-to-the-task string builder utility.",
   "main": "dist/stringbuilder.js",
