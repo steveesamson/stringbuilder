@@ -17,11 +17,11 @@ Simple-to-the-task string builder utility.
 
 ```javascript
     /* With initialization text */
-    var sb = require('stringbuilder')("Start text");
+    var sb = require('strbuilder')("Start text");
     
     /* Or no text initialization. */
     
-    var sb1 = require('stringbuilder')();
+    var sb1 = require('strbuilder')();
     
     sb.append("Hello,").append(" world!");
     
