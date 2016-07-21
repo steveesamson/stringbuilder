@@ -1,6 +1,6 @@
 {
   "name": "strbuilder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple-to-the-task string builder utility.",
   "main": "dist/stringbuilder.js",
   "license": "MIT",
@@ -8,6 +8,7 @@
     "test": "./node_modules/mocha/bin/mocha --ui tdd --recursive ./tests/stringbuilder_tests.js"
   },
   "keywords": [
+    "strbuilder",
     "StringBuilder",
     "stringbuilder",
     "Slicks",

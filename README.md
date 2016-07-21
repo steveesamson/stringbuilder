@@ -4,7 +4,7 @@ Simple-to-the-task string builder utility.
 ## Installation
 
 ```cli
-    npm install stringbuilder
+    npm install strbuilder
 ```
 
 ## Test
