@@ -1,0 +1,30 @@
+{
+  "name": "stringbuilder",
+  "version": "1.2.0",
+  "description": "Simple-to-the-task string builder utility.",
+  "main": "dist/stringbuilder.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --ui tdd --recursive ./tests/stringbuilder_tests.js"
+  },
+  "keywords": [
+    "StringBuilder",
+    "stringbuilder",
+    "Slicks",
+    "Utility for string",
+    "string",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/steveesamson/stringbuilder.git"
+  },
+  "author": "Steve Samson <stevee.samson@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/steveesamson/stringbuilder/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
